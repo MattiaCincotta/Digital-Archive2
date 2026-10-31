@@ -1,0 +1,595 @@
+[
+  {
+    "id": "11",
+    "titolo": "D.Lgs. 61/2002 - Riforma Reati Societari",
+    "descrizione": "Decreto attuativo della delega 366/2001 che ha radicalmente mutato la disciplina del falso in bilancio."
+  },
+  {
+    "id": "12",
+    "titolo": "La nuova disciplina del Falso in Bilancio",
+    "descrizione": "Fondazione Nazionale dei Commercialisti: Analisi delle fattispecie, applicabilità e riflessi sulla responsabilità degli enti a seguito della riforma del 2002.",
+    "link": "https://www.fondazionenazionalecommercialisti.it/filemanager/active/0817/2015_06_15_Falso_in_bilancio_De_Vivo-Gallucci.pdf?fid=817"
+  },
+  {
+    "id": "14",
+    "titolo": "Analisi Soglie di Punibilità",
+    "descrizione": "Analisi tecnica sull'introduzione delle soglie del 5% e del 1% che hanno reso impunibili numerose condotte di bilancio."
+  },
+  {
+    "id": "15",
+    "titolo": "Procedimenti Giudiziari a carico di Silvio Berlusconi",
+    "descrizione": "Elenco e sintesi degli esiti processuali (All Iberian 2, SME) in cui è stata applicata la depenalizzazione derivante dal D.Lgs 61/2002.",
+    "link": "https://it.wikipedia.org/wiki/Procedimenti_giudiziari_a_carico_di_Silvio_Berlusconi"
+  },
+  {
+    "id": "16",
+    "titolo": "La Legge sulle Rogatorie (L. 367/2001)",
+    "descrizione": "Modifica alle norme sull'acquisizione delle prove dall'estero, che impose rigidi requisiti formali causando il blocco di documentazione bancaria elvetica."
+  },
+  {
+    "id": "18",
+    "titolo": "Legge 367/2001 - Rogatorie",
+    "descrizione": "Norma sui requisiti formali per le prove documentali estere, interpretata come ostacolo alle indagini sui fondi neri svizzeri."
+  },
+  {
+    "id": "19",
+    "titolo": "Dottrina su Imi-Sir e Mondadori",
+    "descrizione": "Approfondimento sull'impatto della legge sulle rogatorie riguardo all'inutilizzabilità delle prove bancarie trasmesse dai magistrati svizzeri."
+  },
+  {
+    "id": "21",
+    "titolo": "Tabella Sistematica Provvedimenti 1994-2006",
+    "descrizione": "Ricostruzione degli obiettivi tecnici e delle conseguenze giudiziarie dei decreti Biondi, Tremonti e Pecorella."
+  },
+  {
+    "id": "25",
+    "titolo": "Legge 140/2003 - Lodo Schifani",
+    "descrizione": "Testo normativo che istituiva la sospensione automatica dei processi per le alte cariche dello Stato."
+  },
+  {
+    "id": "28",
+    "titolo": "Sentenza Corte Costituzionale N. 24/2004",
+    "descrizione": "La Consulta dichiara l'illegittimità costituzionale dell'art. 1 della Legge 140/2003 (Lodo Schifani) per violazione degli articoli 3 e 24 della Costituzione.",
+    "link": "https://giurcost.org/decisioni/2004/024s-04.html"
+  },
+  {
+    "id": "33",
+    "titolo": "Legge 124/2008 - Lodo Alfano",
+    "descrizione": "Testo della seconda legge sull'immunità delle alte cariche, poi dichiarata incostituzionale nel 2009."
+  },
+  {
+    "id": "35",
+    "titolo": "Sentenza Corte Costituzionale 262/2009",
+    "descrizione": "Dichiarazione di illegittimità del Lodo Alfano per violazione del combinato disposto degli articoli 3 e 138."
+  },
+  {
+    "id": "40",
+    "titolo": "Legge 51/2010 - Legittimo Impedimento",
+    "descrizione": "Normativa sull'autocertificazione dell'impedimento a comparire in udienza per i Ministri e il Premier."
+  },
+  {
+    "id": "43",
+    "titolo": "Referendum Abrogativo 2011",
+    "descrizione": "Esito della consultazione popolare che ha cancellato le norme sul legittimo impedimento."
+  },
+  {
+    "id": "49",
+    "titolo": "Consiglio Superiore della Magistratura: La Prescrizione",
+    "descrizione": "Relazione sugli effetti sistemici della Legge 251/2005 (Ex Cirielli) e la riduzione dei tempi per i reati finanziari complessi."
+  },
+  {
+    "id": "56",
+    "titolo": "Sentenza Cassazione Processo Mills",
+    "descrizione": "Verbale che conferma la sussistenza della condotta corruttiva ma dichiara l'estinzione del reato per prescrizione."
+  },
+  {
+    "id": "62",
+    "titolo": "Concetto di SIC (Sistema Integrato)",
+    "descrizione": "Innovazione normativa della Legge Gasparri che ha permesso di ridefinire i limiti antitrust pubblicitari."
+  },
+  {
+    "id": "66",
+    "titolo": "Legge Maccanico (1997) e Limiti Antitrust",
+    "descrizione": "Disciplina sulla raccolta pubblicitaria e le posizioni dominanti nel settore televisivo analogico."
+  },
+  {
+    "id": "67",
+    "titolo": "Dinamiche del SIC e Legge Gasparri",
+    "descrizione": "Studio sull'ampliamento del mercato media per il superamento dei vincoli della legge Maccanico."
+  },
+  {
+    "id": "72",
+    "titolo": "Sentenza Consulta 2002 su Rete 4",
+    "descrizione": "Decisione che stabiliva il passaggio al satellite di Rete 4, aggirata successivamente dalla Legge Gasparri."
+  },
+  {
+    "id": "77",
+    "titolo": "Legge 383/2001 - Successioni",
+    "descrizione": "Normativa sull'abolizione dell'imposta sulle successioni e donazioni."
+  },
+  {
+    "id": "81",
+    "titolo": "Stima Risparmio Patrimoniale",
+    "descrizione": "Quantificazione del vantaggio fiscale per il patrimonio Berlusconi derivante dall'abolizione della tassa di successione."
+  },
+  {
+    "id": "84",
+    "titolo": "Participation Exemption - D.Lgs. 344/2003",
+    "descrizione": "Disciplina fiscale dell'esenzione sulle plusvalenze da vendita di partecipazioni societarie."
+  },
+  {
+    "id": "89",
+    "titolo": "Cessione 16,88% Mediaset",
+    "descrizione": "Dettagli sull'operazione Fininvest del 2005 che ha beneficiato dello sgravio fiscale di 340 milioni."
+  },
+  {
+    "id": "93",
+    "titolo": "Manovre Fiscali e Concorrenza Pay-TV",
+    "descrizione": "Analisi sull'aumento selettivo dell'IVA per Sky Italia e l'impatto sul mercato Mediaset."
+  },
+  {
+    "id": "94",
+    "titolo": "Condoni Tombali e Risparmio Fiscale",
+    "descrizione": "Dettagli sulle cifre risparmiate dal gruppo Mediaset e da Silvio Berlusconi attraverso le sanatorie del 2002."
+  },
+  {
+    "id": "100",
+    "titolo": "Legge 208/2004 - Condono Zone Protette",
+    "descrizione": "Estensione del beneficio del condono edilizio nazionale alle aree vincolate paesaggisticamente."
+  },
+  {
+    "id": "106",
+    "titolo": "Apposizione Segreto di Stato",
+    "descrizione": "Provvedimento governativo che ha bloccato le verifiche tecniche del Corpo Forestale su Villa Certosa."
+  },
+  {
+    "id": "111",
+    "titolo": "Sperimentazione E-book 2005",
+    "descrizione": "Stanziamento ministeriale di 3 milioni di euro affidato in esclusiva a Mondadori e IBM."
+  },
+  {
+    "id": "115",
+    "titolo": "Affollamento Pubblicitario Pay-TV",
+    "descrizione": "Disciplina del 2009 che ha ridotto la quota di spot trasmissibili da Sky Italia rispetto alle TV in chiaro."
+  },
+  {
+    "id": "126",
+    "titolo": "Legge 241/2006 - Indulto",
+    "descrizione": "Condono di tre anni di pena che ha ridotto la detenzione per la frode fiscale Mediaset."
+  },
+  {
+    "id": "127",
+    "titolo": "Esecuzione Pena Sacra Famiglia",
+    "descrizione": "Conversione della pena residua di un anno in affidamento ai servizi sociali dopo l'applicazione dell'indulto."
+  },
+  {
+    "id": "132",
+    "titolo": "Trasformazione del Diritto Penale",
+    "descrizione": "Rapporto sull'uso della norma per la protezione dell'imputato eccellente dal rischio del giudizio."
+  },
+  {
+    "id": "137",
+    "titolo": "Legacy Normativa e Riforme Post-2011",
+    "descrizione": "Analisi delle abrogazioni successive e della permanenza dei vantaggi giudiziari acquisiti nel trentennio."
+  },
+  {
+    "id": "1",
+    "titolo": "Banca Rasini - Wikipedia",
+    "descrizione": "Enciclopedia online, voce dedicata alla storia e alle inchieste sulla Banca Rasini.",
+    "link": "https://en.wikipedia.org/wiki/Banca_Rasini"
+  },
+  {
+    "id": "2",
+    "titolo": "L'Odore dei Soldi",
+    "descrizione": "Libro inchiesta di Elio Veltri e Marco Travaglio sulle origini e i misteri delle fortune di Silvio Berlusconi.",
+    "link": "https://www.autistici.org/sitosovversivo/uncensored/notes/travaglio_veltri%20-%20l'odore%20dei%20soldi.pdf"
+  },
+  {
+    "id": "3",
+    "titolo": "Processo Dell'Utri - Sentenza di secondo grado",
+    "descrizione": "Documentazione processuale dopo il rinvio da parte della Cassazione del 2013.",
+    "link": "https://www.archivioantimafia.org/sentenze2/dellutri/dellutri_secondo_grado_nuova.pdf"
+  },
+  {
+    "id": "4",
+    "titolo": "Crollano i teoremi sulla nascita di Fininvest",
+    "descrizione": "Articolo de 'il Giornale' sulle perizie finanziarie relative alle origini del gruppo."
+  },
+  {
+    "id": "5",
+    "titolo": "Sette domande al Primo Ministro",
+    "descrizione": "Documento d'inchiesta sui finanziamenti iniziali e sulle fiduciarie svizzere, INFN Roma.",
+    "link": "https://www.roma1.infn.it/exp/webmqc/Sette%20domande.pdf"
+  },
+  {
+    "id": "17",
+    "titolo": "Deviazione rotte aeree e Milano 2",
+    "descrizione": "Atti della pretura di Monza (1974) e inchiesta sulla modifica delle rotte di Linate."
+  },
+  {
+    "id": "200",
+    "titolo": "Il delitto Casati Stampa",
+    "descrizione": "Cronaca dell'omicidio-suicidio e della successiva controversa vendita di Villa San Martino ad Arcore."
+  },
+  {
+    "id": "52",
+    "titolo": "Dopo 25 anni Dell'Utri ammette: Mangano ad Arcore",
+    "descrizione": "Articolo de 'Il Fatto Quotidiano' sulle dichiarazioni relative alla presenza di Vittorio Mangano come protezione dai malintenzionati.",
+    "link": "https://www.ilfattoquotidiano.it/2021/10/14/dopo-25-anni-dellutri-ammette-mangano-ad-arcore-poteva-tenere-lontano-i-malintenzionati-cerano-i-rapimenti-berlusconi-vide-lui-e-cina-e-disse-accidenti-che-facce/6354222/"
+  },
+  {
+    "id": "300",
+    "titolo": "Vertice di Pratica di Mare (2002)",
+    "descrizione": "Dichiarazione di Roma e istituzione del Consiglio NATO-Russia. Analisi del ruolo italiano nei rapporti internazionali post-11 settembre."
+  },
+  {
+    "id": "400",
+    "titolo": "Il Caso Ruby - Wikipedia",
+    "descrizione": "Ricostruzione dell'inchiesta giudiziaria 'Ruby Ter' e delle indagini sulle pressioni esercitate sulla Questura di Milano.",
+    "link": "https://it.wikipedia.org/wiki/Caso_Ruby"
+  },
+  {
+    "id": "401",
+    "titolo": "La crisi dello Spread e le dimissioni (2011)",
+    "descrizione": "Analisi dell'impatto della crisi dei debiti sovrani europei sull'Italia e il collasso del quarto governo Berlusconi."
+  },
+  {
+    "id": "501",
+    "titolo": "Legge Severino (D.Lgs. 235/2012)",
+    "descrizione": "Normativa in materia di incandidabilità e divieto di ricoprire cariche elettive a seguito di sentenze definitive di condanna per delitti non colposi."
+  },
+  {
+    "id": "502",
+    "titolo": "Lutto Nazionale e Funerali di Stato (2023)",
+    "descrizione": "Disposizioni istituzionali ed echi di stampa relativi alle esequie celebrate nel Duomo di Milano nel giugno 2023."
+  },
+  {
+    "id": "601",
+    "titolo": "Banca Rasini - Wikipedia EN",
+    "link": "https://en.wikipedia.org/wiki/Banca_Rasini"
+  },
+  {
+    "id": "602",
+    "titolo": "Commissione Parlamentare d'Inchiesta",
+    "link": "https://www.parlamento.it/parlam/bicam/mafia/steno/ca018.pdf"
+  },
+  {
+    "id": "603",
+    "titolo": "Palermo ricorda i giornalisti uccisi dalla mafia in Sicilia",
+    "link": "https://www.ultimavoce.it/palermo-giornalisti-uccisi-dalla-mafia-siciliani/"
+  },
+  {
+    "id": "604",
+    "titolo": "Atti Parlamentari - Camera.it",
+    "link": "https://documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/023/013_RSt01/INTERO_COM.pdf"
+  },
+  {
+    "id": "605",
+    "titolo": "Ecco la sentenza, resa definitiva dalla Cassazione, che smonta le bufale...",
+    "link": "https://www.ilfoglio.it/giustizia/2025/10/29/news/ecco-la-sentenza-resa-definitiva-dalla-cassazione-che-smonta-le-bufale-sui-legami-tra-berlusconi-e-la-mafia--124246"
+  },
+  {
+    "id": "606",
+    "titolo": "Senato della Repubblica Camera dei Deputati",
+    "link": "https://legislature.camera.it/_dati/leg10/lavori/stampati/pdf/023_019001.pdf"
+  },
+  {
+    "id": "607",
+    "titolo": "Corte di Assise - Archivio Pio La Torre",
+    "link": "https://archiviopiolatorre.camera.it/img-repo/DOCUMENTAZIONE/Pio%20La%20Torre/Aula%20Bunker/Dibattimento%20Primo%20Grado/Sentenza/Sentenza%20Primo%20Grado.pdf"
+  },
+  {
+    "id": "608",
+    "titolo": "Il primo capitolo de L'Intoccabile di Peter Gomez e Leo Sisti",
+    "link": "https://www.ilfattoquotidiano.it/2010/11/19/berlusconi-e-cosa-nostra-il-primo-capitolo-de-lintoccabile-di-peter-gomez-e-leo-sisti/77797/5/"
+  },
+  {
+    "id": "609",
+    "titolo": "I pentiti: A Riina 200 milioni l'anno per le antenne di Canale 5",
+    "link": "https://www.cinquantamila.it/storyTellerArticolo.php?storyId=0000000186053"
+  },
+  {
+    "id": "610",
+    "titolo": "Banca Rasini - Wikipedia IT",
+    "link": "https://it.wikipedia.org/wiki/Banca_Rasini"
+  },
+  {
+    "id": "611",
+    "titolo": "Un fatto umano - Bibliografia",
+    "link": "https://www.unfattoumano.it/bibliografia.pdf"
+  },
+  {
+    "id": "612",
+    "titolo": "Senato della Repubblica",
+    "link": "https://www.senato.it/service/PDF/PDFServer/DF/285879.pdf"
+  },
+  {
+    "id": "613",
+    "titolo": "Milano, la finanza e la mafia",
+    "link": "https://acmos.net/milano-la-finanza-e-la-mafia"
+  },
+  {
+    "id": "614",
+    "titolo": "Mafie e corruzione a Milano - Libera",
+    "link": "https://www.libera.it/documenti/schede/report_libera_milano_11maggio2018.pdf"
+  },
+  {
+    "id": "615",
+    "titolo": "Corte di Assise di Appello Palermo",
+    "link": "https://tribunale-palermo.giustizia.it/cmsresources/cms/documents/Sentenza_di_secondo_grado_su_omicidio_Mario_Francese.pdf"
+  },
+  {
+    "id": "616",
+    "titolo": "Imputati Dell'Utri Marcello - ArchivioAntimafia",
+    "link": "https://www.archivioantimafia.org/sentenze2/dellutri/dellutri_primo_grado.pdf"
+  },
+  {
+    "id": "617",
+    "titolo": "Processo Calvi - Radio Radicale",
+    "link": "https://www.radioradicale.it/scheda/21"
+  },
+  {
+    "id": "701",
+    "titolo": "L'elenco delle leggi ad personam",
+    "autore": "Libertà e Giustizia",
+    "data": "9 Novembre 2011",
+    "url": "https://www.libertaegiustizia.it/2011/11/09/lelenco-delle-leggi-ad-personam/",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "702",
+    "titolo": "Le tangenti Fininvest alla Guardia di Finanza",
+    "autore": "Archivio Storico Mani Pulite",
+    "data": "Luglio 1994",
+    "descrizione": "Atti giudiziari sulle confessioni degli ufficiali Gdf corrotti dalle società del gruppo.",
+    "tipo": "Atto Giudiziario"
+  },
+  {
+    "id": "703",
+    "titolo": "Scarcerazioni eccellenti: De Lorenzo e Cinà",
+    "autore": "La Repubblica",
+    "data": "15 Luglio 1994",
+    "descrizione": "Cronaca delle scarcerazioni immediate a seguito dell'entrata in vigore del Decreto Biondi.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "704",
+    "titolo": "Il pool di Mani Pulite in TV: «Non possiamo fare il nostro lavoro»",
+    "autore": "Rai News / Archivio Storico",
+    "data": "14 Luglio 1994",
+    "descrizione": "Comunicato letto in diretta televisiva da Antonio Di Pietro, affiancato da Borrelli, Davigo, Colombo e D'Ambrosio.",
+    "tipo": "Video/Archivio"
+  },
+  {
+    "id": "705",
+    "titolo": "Arrestato Paolo Berlusconi. In manette anche Berruti e Sciascia",
+    "autore": "Corriere della Sera",
+    "data": "29 Luglio 1994",
+    "descrizione": "Ripresa delle indagini e relative ordinanze di custodia cautelare dopo la decadenza del Decreto Biondi.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "706",
+    "titolo": "Decreto Legge 10 giugno 1994, n. 357",
+    "autore": "Gazzetta Ufficiale",
+    "data": "10 Giugno 1994",
+    "descrizione": "Disposizioni tributarie urgenti per accelerare la ripresa dell'economia e dell'occupazione.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "707",
+    "titolo": "L'uso della Legge Tremonti da parte di Mediaset",
+    "autore": "Archivio Inchieste Finanziarie",
+    "data": "1994-1995",
+    "descrizione": "Analisi sui bilanci consolidati del gruppo e sull'applicazione della detassazione per l'acquisto di diritti televisivi.",
+    "tipo": "Analisi Contabile"
+  },
+  {
+    "id": "708",
+    "titolo": "La circolare interpretativa sui beni immateriali",
+    "autore": "Ministero delle Finanze",
+    "data": "27 Ottobre 1994",
+    "descrizione": "Estensione dei benefici fiscali ai beni immateriali e ai diritti d'autore esteri.",
+    "tipo": "Documento Ministeriale"
+  },
+  {
+    "id": "709",
+    "titolo": "Legge 31 luglio 1997, n. 249 (Maccanico)",
+    "autore": "Gazzetta Ufficiale",
+    "data": "31 Luglio 1997",
+    "descrizione": "Istituzione dell'Autorità per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "710",
+    "titolo": "Sentenza n. 420 del 1994",
+    "autore": "Corte Costituzionale",
+    "data": "7 Dicembre 1994",
+    "descrizione": "Dichiarazione di incostituzionalità dei tetti di possesso delle reti televisive stabiliti dalla Legge Mammì.",
+    "tipo": "Sentenza"
+  },
+  {
+    "id": "711",
+    "titolo": "Analisi sull'evoluzione del sistema radiotelevisivo",
+    "autore": "Dossier parlamentare",
+    "data": "1997-2000",
+    "descrizione": "Relazione tecnica sull'impatto della clausola di salvaguardia e sul ritardo della migrazione satellitare in Italia.",
+    "tipo": "Analisi Tecnica"
+  },
+  {
+    "id": "712",
+    "titolo": "Decreto ministeriale sulle abilitazioni provvisorie",
+    "autore": "Ministero delle Comunicazioni",
+    "data": "1999",
+    "descrizione": "Atto con cui il governo D'Alema concesse a Rete 4 di continuare a trasmettere in via transitoria.",
+    "tipo": "Decreto Ministeriale"
+  },
+  {
+    "id": "713",
+    "titolo": "Assegnazione delle concessioni televisive nazionali",
+    "autore": "AGCOM",
+    "data": "1999",
+    "descrizione": "Esito della gara pubblica che vide Europa 7 aggiudicarsi la frequenza nazionale al posto di Rete 4.",
+    "tipo": "Atto Amministrativo"
+  },
+  {
+    "id": "714",
+    "titolo": "Il lungo contenzioso Centro Europa 7",
+    "autore": "Corte di Giustizia dell'Unione Europea",
+    "data": "2008-2012",
+    "descrizione": "Sentenze internazionali che condannarono lo Stato italiano per la mancata assegnazione delle frequenze.",
+    "tipo": "Sentenza Europea"
+  },
+  {
+    "id": "715",
+    "titolo": "Legge 16 dicembre 1999, n. 479 (Legge Carotti)",
+    "autore": "Gazzetta Ufficiale",
+    "data": "16 Dicembre 1999",
+    "descrizione": "Modifiche al codice di procedura penale e alla legge sull'ordinamento giudiziario.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "716",
+    "titolo": "Dossier sui processi Imi-Sir, Lodo Mondadori e Sme",
+    "autore": "Procura della Repubblica di Milano",
+    "data": "1999-2000",
+    "descrizione": "Relazione sull'avanzamento dei procedimenti e sull'avvicendamento dei magistrati giudicanti.",
+    "tipo": "Documento Giudiziario"
+  },
+  {
+    "id": "717",
+    "titolo": "Sentenza sul caso Lodo Mondadori - Corte d'Appello",
+    "autore": "Corte d'Appello di Milano",
+    "data": "2001",
+    "descrizione": "Dispositivo di sentenza che dichiara la prescrizione del reato di corruzione per Silvio Berlusconi.",
+    "tipo": "Sentenza"
+  },
+  {
+    "id": "718",
+    "titolo": "Legge 5 ottobre 2001, n. 367",
+    "autore": "Gazzetta Ufficiale",
+    "data": "5 Ottobre 2001",
+    "descrizione": "Ratifica ed esecuzione dell'Accordo tra Italia e Svizzera, con modifiche alle norme sulle rogatorie.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "719",
+    "titolo": "Il caso dei timbri svizzeri: analisi del formalismo",
+    "autore": "Diritto Penale Contemporaneo",
+    "data": "2002",
+    "descrizione": "Commento tecnico sulle nuove cause di inutilizzabilità degli atti stranieri.",
+    "tipo": "Analisi Giuridica"
+  },
+  {
+    "id": "720",
+    "titolo": "La prevalenza del diritto internazionale sulla legge 367/01",
+    "autore": "Corte di Cassazione",
+    "data": "2002",
+    "descrizione": "Relazione sull'orientamento della giurisprudenza di merito riguardo alla disapplicazione della norma.",
+    "tipo": "Documento Giudiziario"
+  },
+  {
+    "id": "721",
+    "titolo": "Decisione quadro del Consiglio relativa al mandato d'arresto europeo",
+    "autore": "Gazzetta ufficiale dell'Unione europea",
+    "data": "13 giugno 2002",
+    "descrizione": "Documento originale della direttiva UE e cronologia dei dissensi degli Stati membri.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "722",
+    "titolo": "Italy’s Objection to the European Arrest Warrant",
+    "autore": "Newsweek",
+    "data": "Dicembre 2001",
+    "descrizione": "Inchiesta giornalistica sulle motivazioni politiche dietro l'ostruzionismo del governo italiano.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "723",
+    "titolo": "El caso Telecinco y la justicia española",
+    "autore": "El País",
+    "data": "2001-2002",
+    "descrizione": "Archivio delle indagini condotte dal giudice Baltasar Garzón sulle irregolarità fiscali dell'emittente spagnola.",
+    "tipo": "Inchiesta"
+  },
+  {
+    "id": "724",
+    "titolo": "Legge 22 aprile 2005, n. 69",
+    "autore": "Gazzetta Ufficiale",
+    "data": "22 Aprile 2005",
+    "descrizione": "Disposizioni per il recepimento del mandato d'arresto europeo e la sua esecuzione.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "725",
+    "titolo": "Il decreto Castelli del 31 dicembre",
+    "autore": "Cronache Giudiziarie Milano",
+    "data": "Gennaio 2002",
+    "descrizione": "Dossier sul provvedimento di trasferimento del giudice Brambilla emesso la notte di San Silvestro.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "726",
+    "titolo": "Principio di immutabilità del giudice",
+    "autore": "Codice di Procedura Penale",
+    "data": "Art. 525",
+    "descrizione": "Norma che impone la continuità del collegio giudicante pena la nullità del processo.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "727",
+    "titolo": "La battaglia sui giudici del processo SME",
+    "autore": "Il Sole 24 Ore",
+    "data": "2 Gennaio 2002",
+    "descrizione": "Resoconto dell'intervento del Presidente della Corte d'Appello per salvare il dibattimento.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "728",
+    "titolo": "D.Lgs. 11 aprile 2002, n. 61",
+    "autore": "Gazzetta Ufficiale",
+    "data": "11 Aprile 2002",
+    "descrizione": "Disciplina dei reati societari a norma dell'articolo 11 della legge 3 ottobre 2001, n. 61.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "729",
+    "titolo": "Relazione sull'impatto della riforma dei reati societari",
+    "autore": "Assonime",
+    "data": "2002",
+    "descrizione": "Analisi tecnica sulle nuove soglie di punibilità e sulle procedure di querela di parte.",
+    "tipo": "Analisi Tecnica"
+  },
+  {
+    "id": "730",
+    "titolo": "Processi Fininvest e nuovo diritto societario",
+    "autore": "Il Sole 24 Ore",
+    "data": "Maggio 2002",
+    "descrizione": "Cronaca dell'estinzione dei processi per falso in bilancio a seguito della nuova normativa.",
+    "tipo": "Articolo"
+  },
+  {
+    "id": "731",
+    "titolo": "Legge 7 novembre 2002, n. 248 (Legge Cirami)",
+    "autore": "Gazzetta Ufficiale",
+    "data": "7 Novembre 2002",
+    "descrizione": "Modifica degli articoli 45, 46, 47, 48 e 49 del codice di procedura penale in materia di rimessione del processo.",
+    "tipo": "Atto Normativo"
+  },
+  {
+    "id": "732",
+    "titolo": "Il concetto di legittimo sospetto nel diritto penale",
+    "autore": "Rivista di Diritto Processuale",
+    "data": "2003",
+    "descrizione": "Evoluzione storica e riproposizione dell'istituto della rimessione per grave situazione locale.",
+    "tipo": "Analisi Giuridica"
+  },
+  {
+    "id": "733",
+    "titolo": "Ordinanza n. 2197/03 - Caso Mediaset/SME",
+    "autore": "Corte Suprema di Cassazione",
+    "data": "Gennaio 2003",
+    "descrizione": "Rigetto dell'istanza di rimessione dei processi milanesi a seguito dell'entrata in vigore della Legge Cirami.",
+    "tipo": "Sentenza"
+  }
+]

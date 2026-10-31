@@ -1,0 +1,448 @@
+[
+  {
+    "slug": "decreto-biondi",
+    "year": "1994",
+    "title": "Il Decreto Biondi",
+    "tags": [
+      "Giustizia",
+      "Penale"
+    ],
+    "content": "Limitazione della custodia cautelare in carcere per reati finanziari e di corruzione.",
+    "sintesi_impatto": "Scontro istituzionale e dimissioni annunciate in diretta tv dal pool di Mani Pulite."
+  },
+  {
+    "slug": "legge-tremonti",
+    "year": "1994",
+    "title": "La Legge Tremonti",
+    "tags": [
+      "Fisco",
+      "Societario"
+    ],
+    "content": "Detassazione degli utili reinvestiti per le imprese ed espansione retroattiva ai beni immateriali.",
+    "sintesi_impatto": "Notevoli benefici fiscali e risparmi per 243 miliardi di lire per le holding del gruppo Fininvest."
+  },
+  {
+    "slug": "legge-maccanico",
+    "year": "1997",
+    "title": "La Legge Maccanico",
+    "tags": [
+      "Media",
+      "Giustizia"
+    ],
+    "content": "Istituzione dell'Agcom e tetti antitrust condizionati allo sviluppo del satellite.",
+    "sintesi_impatto": "La clausola di salvaguardia che ha permesso a Rete 4 di evitare il trasferimento su satellite ordinato dalla Corte Costituzionale."
+  },
+  {
+    "slug": "dalema-salva-rete4",
+    "year": "1999",
+    "title": "D'Alema Salva-Rete 4",
+    "tags": [
+      "Media",
+      "Giustizia"
+    ],
+    "content": "Autorizzazione ministeriale provvisoria per le trasmissioni di Rete 4 nonostante la mancata concessione.",
+    "sintesi_impatto": "Mantenimento delle frequenze a Mediaset e blocco decennale dei diritti dell'emittente Europa 7."
+  },
+  {
+    "slug": "riforma-gip-gup",
+    "year": "1999",
+    "title": "La Riforma Gip-Gup",
+    "tags": [
+      "Giustizia",
+      "Penale"
+    ],
+    "content": "Sancita l'incompatibilità tra GIP e GUP, con ricadute dirette sui tempi dei processi milanesi.",
+    "sintesi_impatto": "L'allungamento dei tempi processuali che portò alla prescrizione per Silvio Berlusconi nel caso Lodo Mondadori."
+  },
+  {
+    "slug": "legge-rogatorie",
+    "year": "2001",
+    "title": "La Legge sulle Rogatorie",
+    "tags": [
+      "Giustizia",
+      "Penale"
+    ],
+    "content": "Introduzione di rigidi requisiti formali per l'acquisizione di prove documentali dall'estero.",
+    "sintesi_impatto": "Il tentativo di invalidare i bonifici svizzeri nei processi Mediaset e SME tramite il principio dell'inutilizzabilità formale."
+  },
+  {
+    "slug": "mandato-cattura-europeo",
+    "year": "2001",
+    "title": "Il Blocco del Mandato Europeo",
+    "tags": [
+      "Giustizia",
+      "Estero"
+    ],
+    "content": "Resistenza diplomatica al Mandato di Cattura Europeo per i reati finanziari.",
+    "sintesi_impatto": "Il ritardo del recepimento della direttiva UE per proteggere i vertici del gruppo dalle indagini spagnole su Telecinco."
+  },
+  {
+    "slug": "trasferimento-brambilla",
+    "year": "2001",
+    "title": "Il Caso del Giudice Brambilla",
+    "tags": [
+      "Giustizia",
+      "Processi"
+    ],
+    "content": "Negata la proroga al giudice del processo Sme-Ariosto tramite provvedimento ministeriale.",
+    "sintesi_impatto": "Il tentativo di azzerare il processo SME tramite la rimozione forzata di un membro del collegio giudicante a Capodanno."
+  },
+  {
+    "slug": "falso-in-bilancio",
+    "year": "2002",
+    "title": "La Riforma del Falso in Bilancio",
+    "tags": [
+      "Fisco",
+      "Societario"
+    ],
+    "content": "Depenalizzazione, riduzione della prescrizione e introduzione delle soglie di non punibilità.",
+    "sintesi_impatto": "La cancellazione di cinque processi a carico del premier grazie alle nuove soglie tecniche e alla brevità della prescrizione."
+  },
+{
+    "slug": "legge-cirami",
+    "year": "2002",
+    "title": "La Legge Cirami",
+    "tags": ["Giustizia", "Processi"],
+    "content": "Reintroduzione del legittimo sospetto per il trasferimento dei processi in altra sede.",
+    "sintesi_impatto": "Il tentativo fallito di spostare i processi Lodo Mondadori e SME da Milano a Brescia per presunta parzialità dei giudici."
+  },
+  {
+    "slug": "condono-fiscale",
+    "year": "2002",
+    "title": "Condono fiscale",
+    "tags": [
+      "Fisco"
+    ],
+    "content": "Sanatoria di evasioni fiscali pregresse attraverso versamenti forfettari minimi.",
+    "sintesi_impatto": "Evasioni personali e societarie sanate con sconti massicci.",
+    "analisi_tecnica": "Attraverso i condoni tombali, è stato possibile chiudere contenziosi fiscali pendenti pagando una frazione irrisoria del dovuto.",
+    "conseguenze": "Cancellazione di evasioni contestate a Mediaset per quasi 200 milioni di euro con versamenti minimi."
+  },
+  {
+    "slug": "salva-milan",
+    "year": "2002",
+    "title": "Salva-Milan",
+    "tags": [
+      "Fisco",
+      "Societario"
+    ],
+    "content": "Decreto spalma-debiti per le società calcistiche professionistiche.",
+    "sintesi_impatto": "Salvataggio dei bilanci delle grandi squadre di calcio, in primis l'A.C. Milan.",
+    "analisi_tecnica": "Possibilità di ammortizzare le svalutazioni dei cartellini dei giocatori in un arco temporale di dieci anni, mascherando le perdite di bilancio.",
+    "conseguenze": "Evitato il collasso finanziario della squadra di proprietà del vertice governativo."
+  },
+  {
+    "slug": "frattini",
+    "year": "2002",
+    "title": "Legge Frattini",
+    "tags": [
+      "Giustizia",
+      "Media"
+    ],
+    "content": "Risoluzione del conflitto di interessi per i titolari di cariche di governo.",
+    "sintesi_impatto": "Disciplina estremamente blanda che non ha intaccato la proprietà aziendale.",
+    "analisi_tecnica": "Ha introdotto il principio di incompatibilità nella sola gestione delle aziende, permettendo di mantenere la piena proprietà e gli utili societari.",
+    "conseguenze": "Legittimazione definitiva dello status quo patrimoniale e mediatico del Presidente del Consiglio."
+  },
+  {
+    "slug": "lodo-maccanico-schifani",
+    "year": "2003",
+    "title": "Lodo Maccanico-Schifani",
+    "tags": [
+      "Giustizia"
+    ],
+    "content": "Sospensione automatica dei processi per le cinque più alte cariche dello Stato.",
+    "sintesi_impatto": "Dichiarata incostituzionale per violazione del principio di uguaglianza.",
+    "analisi_tecnica": "La Legge 140 stabiliva l'impossibilità di procedere penalmente contro i vertici istituzionali fino alla cessazione della carica.",
+    "conseguenze": "Bocciata dalla Corte Costituzionale poiché creava un impedimento indeterminato all'esercizio dell'azione penale."
+  },
+  {
+    "slug": "condono-coimputati",
+    "year": "2003",
+    "title": "Condono per i coimputati",
+    "tags": [
+      "Fisco",
+      "Penale"
+    ],
+    "content": "Estensione dei benefici del patteggiamento e del concordato fiscale ai coimputati.",
+    "sintesi_impatto": "Sostegno legale e fiscale ai dirigenti del gruppo coinvolti nelle inchieste.",
+    "analisi_tecnica": "Disposizioni che allargavano le maglie delle sanatorie a chi aveva concorso nei reati societari o fiscali delle aziende principali.",
+    "conseguenze": "Protezione della catena di comando aziendale dalle indagini giudiziarie in corso."
+  },
+  {
+    "slug": "gasparri-1",
+    "year": "2003",
+    "title": "Gasparri-1",
+    "tags": [
+      "Media"
+    ],
+    "content": "Prima versione del riassetto del sistema radiotelevisivo e rinvio allo sganciamento di Rete 4.",
+    "sintesi_impatto": "Tentativo iniziale di consolidare il duopolio televisivo respinto dalla Presidenza della Repubblica.",
+    "analisi_tecnica": "Il testo prevedeva un ampliamento dei limiti pubblicitari, ma fu bloccato dal rinvio alle Camere da parte del Presidente Ciampi.",
+    "conseguenze": "Rielaborazione del testo che portò successivamente all'approvazione della Gasparri definitiva e del decreto d'urgenza salva-Rete4."
+  },
+  {
+    "slug": "berlusconi-salva-rete4",
+    "year": "2003",
+    "title": "Berlusconi salva-Rete4",
+    "tags": [
+      "Media"
+    ],
+    "content": "Decreto legge d'urgenza per impedire l'oscuramento della terza rete Mediaset.",
+    "sintesi_impatto": "Bypassata la scadenza imposta dalla Corte Costituzionale per il passaggio al satellite.",
+    "analisi_tecnica": "A seguito del rinvio della Gasparri, l'esecutivo varò un decreto immediato per mantenere Rete 4 sulle frequenze analogiche.",
+    "conseguenze": "Salvataggio diretto degli introiti pubblicitari e della quota di mercato della rete."
+  },
+  {
+    "slug": "salva-decoder",
+    "year": "2003",
+    "title": "Salva-decoder",
+    "tags": [
+      "Media",
+      "Fisco"
+    ],
+    "content": "Introduzione di contributi statali per l'acquisto di decoder per il digitale terrestre.",
+    "sintesi_impatto": "Spinta economica finanziata dallo Stato a favore delle piattaforme pay-tv di famiglia.",
+    "analisi_tecnica": "Erogazione di sussidi pubblici ai cittadini per accelerare la transizione al digitale, mercato in cui Mediaset Premium stava lanciando la sua offerta.",
+    "conseguenze": "Vantaggio competitivo enorme per l'azienda di famiglia nel nuovo mercato televisivo digitale."
+  },
+  {
+    "slug": "plusvalenze-esentasse",
+    "year": "2003",
+    "title": "Plusvalenze esentasse",
+    "tags": [
+      "Fisco",
+      "Societario"
+    ],
+    "content": "Esenzione quasi totale dalla tassazione delle plusvalenze sulle vendite di partecipazioni.",
+    "sintesi_impatto": "Risparmio fiscale di 340 milioni di euro sulla cessione di quote Mediaset.",
+    "analisi_tecnica": "Il D.Lgs. 344 ha introdotto la Participation Exemption, esentando dal prelievo fiscale i guadagni derivanti dalla vendita di pacchetti azionari.",
+    "conseguenze": "Fininvest ha ceduto quote societarie approfittando immediatamente della norma per un risparmio massiccio."
+  },
+  {
+    "slug": "gasparri-2",
+    "year": "2004",
+    "title": "Gasparri-2",
+    "tags": [
+      "Media"
+    ],
+    "content": "Legge definitiva di riassetto del sistema radiotelevisivo e introduzione del SIC.",
+    "sintesi_impatto": "Ampliamento dei limiti antitrust pubblicitari e protezione definitiva delle reti aziendali.",
+    "analisi_tecnica": "Introduzione del Sistema Integrato delle Comunicazioni, che includeva giornali e internet per diluire le quote di mercato televisive.",
+    "conseguenze": "Ha permesso a Mediaset di rispettare formalmente i limiti antitrust pur mantenendo il controllo assoluto sulla raccolta televisiva."
+  },
+  {
+    "slug": "decoder-di-stato",
+    "year": "2004",
+    "title": "Decoder di Stato",
+    "tags": [
+      "Media",
+      "Fisco"
+    ],
+    "content": "Rinnovo e ampliamento dei fondi pubblici per l'acquisto di decoder digitali interattivi.",
+    "sintesi_impatto": "Consolidamento del vantaggio competitivo nel mercato delle tessere prepagate calcistiche.",
+    "analisi_tecnica": "Il governo stanziò ulteriori risorse statali vincolate all'acquisto di apparecchi idonei a ricevere servizi a pagamento, core business della nascente Mediaset Premium.",
+    "conseguenze": "Affermazione commerciale rapida dell'offerta a pagamento dell'azienda del premier."
+  },
+  {
+    "slug": "autoriduzione-fiscale",
+    "year": "2004",
+    "title": "Autoriduzione fiscale",
+    "tags": [
+      "Fisco"
+    ],
+    "content": "Riforma delle aliquote IRPEF con forti tagli per gli scaglioni di reddito più alti.",
+    "sintesi_impatto": "Riduzione delle imposte personali stimata in quasi un milione di euro annui per il vertice dell'esecutivo.",
+    "analisi_tecnica": "La Finanziaria 2005 ha rimodulato la tassazione sui redditi, concentrando il massimo del beneficio fiscale sulla fascia di ricchezza superiore.",
+    "conseguenze": "Risparmio milionario diretto per le finanze personali del capo del governo."
+  },
+  {
+    "slug": "villa-abusiva",
+    "year": "2004",
+    "title": "Villa abusiva con condono",
+    "tags": [
+      "Patrimonio",
+      "Ambiente"
+    ],
+    "content": "Estensione del condono edilizio nazionale alle aree vincolate paesaggisticamente.",
+    "sintesi_impatto": "Sanatoria di abusi edilizi a Villa Certosa bloccando le indagini della magistratura.",
+    "analisi_tecnica": "La Legge 208 permise di condonare volumetrie in zone protette. Fu inoltre apposto il segreto di Stato sulle infrastrutture della villa sarda.",
+    "conseguenze": "Regolarizzazione di tunnel e strutture non autorizzate con sanzioni irrisorie e stop alle ispezioni tecniche."
+  },
+  {
+    "slug": "ex-cirielli",
+    "year": "2005",
+    "title": "Ex Cirielli",
+    "tags": [
+      "Penale",
+      "Giustizia"
+    ],
+    "content": "Riduzione massiccia dei tempi di prescrizione per i soggetti incensurati.",
+    "sintesi_impatto": "Sistematica neutralizzazione della pretesa punitiva per reati complessi.",
+    "analisi_tecnica": "Ha dimezzato il prolungamento del termine di prescrizione in presenza di atti interruttivi processuali.",
+    "conseguenze": "Ha determinato l'estinzione dei reati nel processo Mills e in diversi capi d'imputazione storici per le aziende del gruppo."
+  },
+  {
+    "slug": "ad-mediolanum",
+    "year": "2005",
+    "title": "Ad Mediolanum",
+    "tags": [
+      "Fisco",
+      "Societario"
+    ],
+    "content": "Disposizioni favorevoli per il settore bancario e assicurativo legato al gruppo Fininvest.",
+    "sintesi_impatto": "Vantaggi competitivi e fiscali per le società di gestione del risparmio.",
+    "analisi_tecnica": "Norme inserite nei decreti collegati alla manovra finanziaria per agevolare il trattamento fiscale dei prodotti assicurativi e previdenziali.",
+    "conseguenze": "Rafforzamento dei margini operativi per la controllata Banca Mediolanum."
+  },
+  {
+    "slug": "ad-mondadori-1",
+    "year": "2005",
+    "title": "Ad Mondadori-1",
+    "tags": [
+      "Media",
+      "Fisco"
+    ],
+    "content": "Sperimentazione statale per i libri digitali nelle scuole affidata in via esclusiva.",
+    "sintesi_impatto": "Finanziamento pubblico mascherato per il nascente mercato degli e-book della casa editrice di famiglia.",
+    "analisi_tecnica": "Stanziamento ministeriale di svariati milioni di euro destinato senza bando pubblico a un progetto congiunto con IBM.",
+    "conseguenze": "Creazione di una posizione dominante nel nuovo mercato dell'editoria scolastica digitale."
+  },
+  {
+    "slug": "ad-mondadori-2",
+    "year": "2005",
+    "title": "Ad Mondadori-2",
+    "tags": [
+      "Media",
+      "Fisco"
+    ],
+    "content": "Agevolazioni sulle tariffe postali e contributi per l'editoria periodica.",
+    "sintesi_impatto": "Sostegno diretto ai bilanci del settore stampa del gruppo aziendale.",
+    "analisi_tecnica": "Mantenimento e rafforzamento dei sussidi statali per la spedizione di riviste e settimanali, mercato dominato dall'azienda di famiglia.",
+    "conseguenze": "Aumento della redditività per il comparto editoriale cartaceo."
+  },
+  {
+    "slug": "pecorella",
+    "year": "2006",
+    "title": "Legge Pecorella",
+    "tags": [
+      "Penale",
+      "Giustizia"
+    ],
+    "content": "Divieto per il Pubblico Ministero di appellare le sentenze di assoluzione.",
+    "sintesi_impatto": "Dichiarata incostituzionale dalla Consulta pochi mesi dopo l'approvazione.",
+    "analisi_tecnica": "La norma eliminava il potere di impugnazione dell'accusa, cristallizzando immediatamente l'esito favorevole del primo grado.",
+    "conseguenze": "Forte limitazione temporanea del potere dei magistrati requirenti in attesa della bocciatura costituzionale."
+  },
+  {
+    "slug": "salva-diritti-tv",
+    "year": "2006",
+    "title": "Salva-diritti tv",
+    "tags": [
+      "Media",
+      "Societario"
+    ],
+    "content": "Modifica alla disciplina della vendita dei diritti televisivi sportivi.",
+    "sintesi_impatto": "Protezione degli investimenti commerciali sulle piattaforme digitali terrestri.",
+    "analisi_tecnica": "Intervento sul regime di compravendita dei diritti calcistici per mantenere inalterato l'equilibrio contrattuale favorevole all'azienda di riferimento.",
+    "conseguenze": "Ostacolo all'ingresso di nuovi competitor nel mercato delle trasmissioni calcistiche."
+  },
+  {
+    "slug": "indulto",
+    "year": "2006",
+    "title": "Indulto",
+    "tags": [
+      "Penale",
+      "Giustizia"
+    ],
+    "content": "Condono di tre anni di pena per i reati commessi prima del maggio dell'anno di approvazione.",
+    "sintesi_impatto": "Mitigazione dell'unica condanna definitiva subita per frode fiscale.",
+    "analisi_tecnica": "Legge trasversale che ha abbattuto di tre quarti la pena detentiva inflitta nei grandi processi in corso di definizione.",
+    "conseguenze": "La pena residua di un anno è stata convertita in affidamento in prova ai servizi sociali, evitando il regime carcerario."
+  },
+  {
+    "slug": "lodo-alfano",
+    "year": "2008",
+    "title": "Lodo Alfano",
+    "tags": [
+      "Giustizia"
+    ],
+    "content": "Sospensione dei processi penali per le quattro più alte cariche dello Stato.",
+    "sintesi_impatto": "Secondo tentativo di scudo processuale bocciato dalla Corte Costituzionale.",
+    "analisi_tecnica": "Riproponeva il meccanismo dello Schifani con l'esclusione del Presidente della Consulta, nel tentativo di aggirare i precedenti rilievi costituzionali.",
+    "conseguenze": "Dichiarato illegittimo nel 2009 poiché l'introduzione di una tale immunità necessitava di una legge costituzionale."
+  },
+  {
+    "slug": "piu-iva-per-sky",
+    "year": "2008",
+    "title": "Più Iva per Sky",
+    "tags": [
+      "Fisco",
+      "Media"
+    ],
+    "content": "Aumento dell'aliquota IVA dal 10 al 20 percento esclusivamente per la televisione a pagamento via satellite.",
+    "sintesi_impatto": "Attacco economico mirato al principale concorrente internazionale nel settore media.",
+    "analisi_tecnica": "L'imposta sulla pay-tv satellitare veniva raddoppiata improvvisamente in sede di legge di stabilità.",
+    "conseguenze": "Squilibrio competitivo finalizzato a frenare l'erosione di quote di mercato a danno della televisione commerciale in chiaro."
+  },
+  {
+    "slug": "meno-spot-per-sky",
+    "year": "2009",
+    "title": "Meno spot per Sky",
+    "tags": [
+      "Media"
+    ],
+    "content": "Riduzione dei tetti di affollamento pubblicitario per le tv a pagamento rispetto a quelle in chiaro.",
+    "sintesi_impatto": "Danneggiamento diretto del modello di business della concorrenza satellitare.",
+    "analisi_tecnica": "La normativa imponeva limiti asimmetrici severi per la raccolta di spot televisivi per le reti crittografate, tutelando gli introiti delle reti tradizionali.",
+    "conseguenze": "Nuova barriera commerciale a protezione del duopolio televisivo storico."
+  },
+  {
+    "slug": "piu-azioni-proprie",
+    "year": "2009",
+    "title": "Più azioni proprie",
+    "tags": [
+      "Societario"
+    ],
+    "content": "Innalzamento dei limiti per il riacquisto di azioni societarie senza obbligo di OPA.",
+    "sintesi_impatto": "Facilitazione del controllo interno sulle holding di famiglia blindandone l'assetto.",
+    "analisi_tecnica": "Aumento della quota di azioni proprie che un'azienda poteva detenere in portafoglio, rafforzando il controllo azionario della proprietà di maggioranza.",
+    "conseguenze": "Difesa delle aziende strategiche del gruppo da possibili scalate ostili sul mercato finanziario."
+  },
+  {
+    "slug": "ad-listam",
+    "year": "2010",
+    "title": "Ad listam",
+    "tags": [
+      "Giustizia"
+    ],
+    "content": "Decreto interpretativo d'urgenza per la riammissione delle liste elettorali del partito di governo.",
+    "sintesi_impatto": "Bypassate le esclusioni decise dai tribunali regionali per vizi formali di presentazione.",
+    "analisi_tecnica": "Provvedimento normativo varato durante il weekend elettorale per modificare in via autentica le procedure di accettazione delle firme.",
+    "conseguenze": "Riammissione delle liste nella competizione regionale, sanando le irregolarità procedurali commesse dalla compagine politica."
+  },
+  {
+    "slug": "illegittimo-impedimento",
+    "year": "2010",
+    "title": "Illegittimo impedimento",
+    "tags": [
+      "Giustizia"
+    ],
+    "content": "Meccanismo di autocertificazione per il differimento continuo delle udienze dei Ministri e del Premier.",
+    "sintesi_impatto": "Bocciata dalla Consulta e definitivamente cancellata tramite referendum popolare.",
+    "analisi_tecnica": "Prevedeva una presunzione assoluta di impedimento derivante dagli impegni istituzionali certificati direttamente dalla Presidenza del Consiglio.",
+    "conseguenze": "Fine della stagione delle leggi di immunità e ripresa ordinaria di tutti i procedimenti processuali rimasti in sospeso."
+  },
+  {
+    "slug": "legge-contro-veronica",
+    "year": "2011",
+    "title": "La legge contro Veronica",
+    "tags": [
+      "Patrimonio"
+    ],
+    "content": "Tentativo di modifica normativa sui criteri di determinazione dell'assegno di mantenimento divorzile.",
+    "sintesi_impatto": "Intervento legislativo inserito per impattare direttamente il contenzioso civile personale in corso.",
+    "analisi_tecnica": "Inserimento in un decreto di norme volte a ridurre i parametri di calcolo dell'assegno spettante al coniuge separato.",
+    "conseguenze": "Scatenò pesanti polemiche per l'uso smaccato della funzione legislativa in una causa di diritto di famiglia, portando all'abbandono della misura."
+  }
+]

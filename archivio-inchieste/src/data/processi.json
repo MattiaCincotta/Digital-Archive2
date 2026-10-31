@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "processo-mills",
+    "titolo": "Processo Mills",
+    "accusa": "Corruzione in atti giudiziari",
+    "esito": "Prescrizione definitiva",
+    "descrizione": "Caso riguardante il versamento di 600.000 dollari all'avvocato David Mills per testimoniare il falso nei processi All Iberian e Arduini."
+  },
+  {
+    "slug": "lodo-mondadori",
+    "titolo": "Lodo Mondadori",
+    "accusa": "Corruzione giudiziaria",
+    "esito": "Prescrizione",
+    "descrizione": "Inchiesta sulla corruzione del giudice Vittorio Metta per favorire il passaggio del controllo della casa editrice Mondadori alla Fininvest."
+  },
+  {
+    "slug": "diritti-tv-mediaset",
+    "titolo": "Diritti TV Mediaset",
+    "accusa": "Frode fiscale",
+    "esito": "Condanna definitiva",
+    "descrizione": "Processo sulla compravendita di diritti cinematografici tramite società offshore per gonfiare i costi e creare fondi neri."
+  },
+  {
+    "slug": "processo-sme",
+    "titolo": "Processo SME",
+    "accusa": "Corruzione e Falso in bilancio",
+    "esito": "Assoluzione e Prescrizione",
+    "descrizione": "Indagine sulla tentata vendita della società pubblica SME e sulla presunta corruzione di magistrati romani."
+  }
+]
